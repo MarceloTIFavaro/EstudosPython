@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="94005302-376f-4197-a570-70d147a9fbb6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Estudospython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Estudospython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AulasGuanabara/Modulo1/Desafios/ex001.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +34,8 @@
   "keyToString": {
     "Python.ex002.executor": "Run",
     "Python.ex003.executor": "Run",
+    "Python.script-python2.executor": "Run",
+    "Python.script-pythonDesafio1.executor": "Run",
     "Python.test.executor": "Run",
     "Python.testt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
